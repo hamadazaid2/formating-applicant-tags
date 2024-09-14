@@ -1,0 +1,16 @@
+{
+    "userId": {
+        "newApplicantId": "applicantId",
+        "userTags": [
+            "Yorba Linda",
+            "CA"
+        ]
+    },
+    "userId": {
+        "newApplicantId": "applicantId",
+        "userTags": [
+            "Austin",
+            "TX"
+        ]
+    }
+}
